@@ -1,0 +1,6 @@
+HOST, iprofiles.apple.com, REJECT
+HOST, mdmenrollment.apple.com, REJECT
+HOST, deviceenrollment.apple.com, REJECT
+HOST, gdmf.apple.com, REJECT
+HOST, acmdm.apple.com, REJECT
+HOST, albert.apple.com, REJECT
